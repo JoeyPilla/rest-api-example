@@ -1,10 +1,11 @@
 package main
 
 import (
-	"api"
 	"fmt"
 	"log"
 	"net/http"
+
+	"github.com/JoeyPilla/rest-api-example/api"
 
 	_ "github.com/lib/pq"
 )
