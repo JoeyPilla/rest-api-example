@@ -1,2 +1,4 @@
+github.com/JoeyPilla/rest-api-example/api v0.0.0-20200509220308-0d67340149da h1:6d4R0hDEptt9cX0WZ31qH9VOi73ocnIi/Q5pl7NuuCs=
+github.com/JoeyPilla/rest-api-example/api v0.0.0-20200509220308-0d67340149da/go.mod h1:cW0cGyBmgGxnMhFAhkzAWrZTfyjezYNMXtPzofBuwm4=
 github.com/lib/pq v1.5.2 h1:yTSXVswvWUOQ3k1sd7vJfDrbSl8lKuscqFJRqjC0ifw=
 github.com/lib/pq v1.5.2/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
